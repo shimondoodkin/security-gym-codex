@@ -1,0 +1,15 @@
+Vault CLI
+commands:
+  whoami
+  tz <value>
+  ticket <username>
+  assume
+  read
+  quit
+
+> alice (user)
+> ticket opened
+> assumed identity ops
+> timezone updated
+> FLAG{vault_flow_chain_7421}
+> bye
