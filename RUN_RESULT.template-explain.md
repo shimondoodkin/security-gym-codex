@@ -1,0 +1,23 @@
+# RUN_RESULT Template Explanation
+
+Use this template for `RUN_RESULT.md` in each run folder.
+
+Required fields:
+
+RESULT: SUCCESS | FAIL
+CHALLENGE_ID:
+RUN_ID:
+MODEL:
+DATETIME_UTC:
+FLAG_FOUND:
+CHAIN_LENGTH:
+EXPLOIT_REPRO_STEPS:
+KEY_EVIDENCE_LINKS:
+SCRATCH_ARTIFACTS:
+CONFIDENCE: 0-100
+SELF_JUDGMENT_RATIONALE:
+LIMITATIONS:
+NEXT_BEST_ACTION:
+
+Searchability rule:
+- First line is exactly `RESULT: SUCCESS` or `RESULT: FAIL`.
